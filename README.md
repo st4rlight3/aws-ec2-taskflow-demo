@@ -5,6 +5,7 @@ Bài thực hành tìm hiểu **Amazon EC2**, sau đó triển khai ứng dụng
 ## Sản phẩm
 
 - [Báo cáo Word tiếng Việt 14 trang](Bao_cao_Amazon_EC2_TaskFlow.docx)
+- [Slide thuyết trình trên Canva](https://www.canva.com/ai/thread/91c133b6-4447-4d4e-9a3c-ed0168f234f4)
 - [Gói ứng dụng chạy được và bộ cài EC2](San_pham_demo_EC2.zip)
 - [Hướng dẫn chạy và triển khai chi tiết](ec2-demo/README.md)
 - [Kết quả 25 ca kiểm thử](ec2-demo/tests/test-results.json)
