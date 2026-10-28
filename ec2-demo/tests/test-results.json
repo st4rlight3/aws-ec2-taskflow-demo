@@ -1,0 +1,105 @@
+{
+  "passed": 25,
+  "cases": [
+    {
+      "case": "Health endpoint and local mode",
+      "result": "PASS"
+    },
+    {
+      "case": "Unauthenticated task access rejected",
+      "result": "PASS"
+    },
+    {
+      "case": "Missing mutation header rejected",
+      "result": "PASS"
+    },
+    {
+      "case": "Wrong password rejected",
+      "result": "PASS"
+    },
+    {
+      "case": "Session login accepted",
+      "result": "PASS"
+    },
+    {
+      "case": "Six sample records and correct summary",
+      "result": "PASS"
+    },
+    {
+      "case": "Create task and trim spaces",
+      "result": "PASS"
+    },
+    {
+      "case": "Reject blank title",
+      "result": "PASS"
+    },
+    {
+      "case": "Reject invalid calendar date",
+      "result": "PASS"
+    },
+    {
+      "case": "Reject unsupported status",
+      "result": "PASS"
+    },
+    {
+      "case": "Reject nonobject JSON",
+      "result": "PASS"
+    },
+    {
+      "case": "Filter by status and priority",
+      "result": "PASS"
+    },
+    {
+      "case": "Search and global summary",
+      "result": "PASS"
+    },
+    {
+      "case": "SQL injection string treated as data",
+      "result": "PASS"
+    },
+    {
+      "case": "Update task status",
+      "result": "PASS"
+    },
+    {
+      "case": "Reject unknown update field",
+      "result": "PASS"
+    },
+    {
+      "case": "Missing task returns 404",
+      "result": "PASS"
+    },
+    {
+      "case": "CSV UTF8 and formula neutralization",
+      "result": "PASS"
+    },
+    {
+      "case": "Static page and CSP",
+      "result": "PASS"
+    },
+    {
+      "case": "Path traversal denied",
+      "result": "PASS"
+    },
+    {
+      "case": "Restart invalidates old session",
+      "result": "PASS"
+    },
+    {
+      "case": "Tasks persist across process restart",
+      "result": "PASS"
+    },
+    {
+      "case": "Delete task",
+      "result": "PASS"
+    },
+    {
+      "case": "Empty database stays empty after restart",
+      "result": "PASS"
+    },
+    {
+      "case": "Logout invalidates session",
+      "result": "PASS"
+    }
+  ]
+}
